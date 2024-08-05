@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emersinrp" alt="emersinrp" /></a> </p>
 
-- 🔭 Atualmente trabalho como Especialista de Qualidade na BRF **BRF S.A.**
+- 🔭 Atualmente trabalho como Especialista de Qualidade na: **BRF S.A.**
 
 - 🌱 Atualmente estou desenvolvendo meus conhecimentos em: **Playwright**
 <br></br>
