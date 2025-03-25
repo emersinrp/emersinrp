@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente trabalho como Especialista de Qualidade na: **BRF S.A.**
 
-- 🌱 Atualmente estou desenvolvendo meus conhecimentos em: **Playwright**
+- 🌱 Atualmente estou desenvolvendo meus conhecimentos em: **Playwright** e **Python/Django**
 <br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emersinrp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=emersinrp&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emersinrp&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
