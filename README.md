@@ -1,13 +1,11 @@
 <h1 align="left">Ola, eu sou o Emerson Rodrigues</h1>
-<p align="left">(PT-BR):<br>Sou um engenheiro de qualidade de software com 13 anos de experiência, especializado em testes automatizados nos últimos 7 anos. Trabalho como Especialista em QA/Tech lead na BRF, sou de Ribeirão Preto, SP. Seus projetos no GitHub incluem testes com Selenium WebDriver, estudos de bootcamp e exercícios de automação de testes, testes de performance, carga, cypress e selenium. Utilizo principalmente linguagens como Java, JS, Ruby e Python.<br><br>(ENG-US):<br>Is a software quality engineer with 13 years of experience, focusing on automated testing for the last 6 years. He works as a QA Specialist at BRF in Ribeirão Preto, SP. His GitHub projects include Selenium WebDriver tests, bootcamp studies, and test automation exercises, performance tests, stress tests, selenium and cypress, flows in postman. Primarily uses Java, JS, Ruby, and Python.</p>
+<p align="left">(PT-BR):<br>Sou um Arquiteto de Soluções com 14 anos de experiência e um EX QA especializado em testes automatizados nos últimos 8 anos. Trabalho como Arch de Soluçoes e Tech lead na MBRF, sou de Ribeirão Preto, SP. Infelizmente a maioria de meus projetos no git sao privados mas os disponveis sao estudos que realizo principalmente voltado a IA Generativa, outros incluem testes com Playwright, Cypress, Selenium, estudos de bootcamp e exercícios de automação de testes, testes de performance, carga, cypress e selenium. Utilizo principalmente linguagens como Java, JS, Ruby e Python.<br><br>(ENG-US):<br>Is a Solutions Arch with 14 years of experience, focusing on automated testing for the last 6 years. He works as a QA Specialist at BRF in Ribeirão Preto, SP. His GitHub projects include Selenium WebDriver tests, bootcamp studies, and test automation exercises, performance tests, stress tests, selenium and cypress, flows in postman. Primarily uses Java, JS, Ruby, and Python.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emersinrp&label=Profile%20views&color=0e75b6&style=flat" alt="emersinrp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emersinrp" alt="emersinrp" /></a> </p>
+- 🔭 Atualmente trabalho como Arquiteto de Soluções na: **MBRF S.A.**
 
-- 🔭 Atualmente trabalho como Especialista de Qualidade na: **BRF S.A.**
-
-- 🌱 Atualmente estou desenvolvendo meus conhecimentos em: **Playwright** e **Python/Django**
+- 🌱 Atualmente estou ampliando meus conhecimentos em: **Arquitetura de Sistemas**, **IA**, **Criação de Skills e Templates**, **Desenvolvimento embarcado com IA Generativa através de SpecKit**, **Playwright/Cypress** e **Python/Django**
 <br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,9 +26,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=emersinrp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emersinrp&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/emersinrp/emersinrp/output/snake.svg" alt="Snake animation" />
 
 ###
